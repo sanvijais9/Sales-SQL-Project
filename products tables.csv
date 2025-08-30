@@ -1,0 +1,11 @@
+"product_id","product_name","category","price","stock_qty"
+101,"Laptop","Electronics","300000.00",60
+102,"CPU","Electronics","15000.00",40
+103,"Motherboard","Electronics","4000.00",50
+104,"RAM","Electronics","3000.00",50
+105,"SSD","Electronics","2000.00",45
+106,"PSU","Electronics","4000.00",15
+107,"keyboard","Electronics","1000.00",30
+108,"mouse","Electronics","500.00",20
+109,"GPU","Electronics","4000.00",40
+110,"printer","Electronics","10000.00",10
